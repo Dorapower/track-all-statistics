@@ -1,0 +1,1 @@
+schedule function #main:tick 1t
