@@ -14,6 +14,7 @@ Designed for minecraft version 1.16.2+, no plan to support lower versions of min
 1. The name is basically two part seperated by point, like *.*****, and should be no longer than 16 character
 1. The first part is an abbreviation for its criterion's category, always take one or two letters, full list as follows:
     * t   - track-all-statistics or technical, for technical use
+    * tc  - track-all-statistics customized, caculated from other vanilla objectives
     * g   - generic, for those single criterions
     * kt  - killed by team
     * b   - broken
