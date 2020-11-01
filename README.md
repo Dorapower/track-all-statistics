@@ -26,7 +26,7 @@ Designed for minecraft version 1.16.2+, no plan to support lower versions of min
     * m   - mined
     * p   - picked up
     * u   - used
-    * t   - team kill
+    * tk   - team kill
 1. The second part is the main part of the criterion id in lower camel case, e.g. beeSpawnEgg, abbreviate some words iff length limit is reached. The principle is to reduce the influence to the recognition of the meaning. The idea is cut the whole phrase into basic parts, choose the modifier word first, then the first word of parts with more than one words, then the first part of compounds, if it's still too long then one by one from the beginning. Some examples are below:
     * polished_blackstone_brick_wall -> poBstoneBWall
     * light_gray_glazed_terracotta -> lightGrayGT
